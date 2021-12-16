@@ -1,0 +1,59 @@
+/*
+ * The Typekit service used to deliver this font or fonts for use on websites
+ * is provided by Adobe and is subject to these Terms of Use
+ * http://www.adobe.com/products/eulas/tou_typekit. For font license
+ * information, see the list below.
+ *
+ * coolvetica:
+ *   - http://typekit.com/eulas/00000000000000003b9b3d9e
+ *   - http://typekit.com/eulas/00000000000000003b9b3d9d
+ *   - http://typekit.com/eulas/00000000000000003b9b3da1
+ *   - http://typekit.com/eulas/00000000000000003b9b3d98
+ *   - http://typekit.com/eulas/00000000000000003b9b3d9b
+ *
+ * © 2009-2019 Adobe Systems Incorporated. All Rights Reserved.
+ */
+/*{"last_published":"2019-11-25 09:36:32 UTC"}*/
+
+@import url("https://p.typekit.net/p.css?s=1&k=zcr2dgv&ht=tk&f=295.297.301.303.305&a=17453472&app=typekit&e=css");
+
+@font-face {
+font-family:"coolvetica";
+src:url("https://use.typekit.net/af/91ae5a/00000000000000003b9b3d9e/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3") format("woff2"),url("https://use.typekit.net/af/91ae5a/00000000000000003b9b3d9e/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3") format("woff"),url("https://use.typekit.net/af/91ae5a/00000000000000003b9b3d9e/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:700;
+font-display: swap;
+}
+
+@font-face {
+font-family:"coolvetica";
+src:url("https://use.typekit.net/af/379c97/00000000000000003b9b3d9d/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("woff2"),url("https://use.typekit.net/af/379c97/00000000000000003b9b3d9d/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("woff"),url("https://use.typekit.net/af/379c97/00000000000000003b9b3d9d/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:400;
+font-display: swap;
+
+}
+
+@font-face {
+font-family:"coolvetica";
+src:url("https://use.typekit.net/af/5d6d8c/00000000000000003b9b3da1/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n9&v=3") format("woff2"),url("https://use.typekit.net/af/5d6d8c/00000000000000003b9b3da1/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n9&v=3") format("woff"),url("https://use.typekit.net/af/5d6d8c/00000000000000003b9b3da1/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n9&v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:900;
+font-display: swap;
+
+}
+
+@font-face {
+font-family:"coolvetica";
+src:url("https://use.typekit.net/af/583aa5/00000000000000003b9b3d98/27/l?subset_id=2&fvd=n3&v=3") format("woff2"),url("https://use.typekit.net/af/583aa5/00000000000000003b9b3d98/27/d?subset_id=2&fvd=n3&v=3") format("woff"),url("https://use.typekit.net/af/583aa5/00000000000000003b9b3d98/27/a?subset_id=2&fvd=n3&v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:300;
+font-display: swap;
+
+}
+
+@font-face {
+font-family:"coolvetica";
+src:url("https://use.typekit.net/af/f284ba/00000000000000003b9b3d9b/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n5&v=3") format("woff2"),url("https://use.typekit.net/af/f284ba/00000000000000003b9b3d9b/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n5&v=3") format("woff"),url("https://use.typekit.net/af/f284ba/00000000000000003b9b3d9b/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n5&v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:500;
+font-display: swap;
+
+}
+
+.tk-coolvetica { font-family: "coolvetica",sans-serif; font-display: swap;}
